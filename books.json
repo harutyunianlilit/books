@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes"
+    },
+    {
+      "id": 2,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez"
+    },
+    {
+        "id": 3,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald"
+      },
+      {
+        "id": 4,
+        "title": "Leo Tolstoy",
+        "author": "War and Peace"
+      },
+      {
+        "id": 5,
+        "title": "Hamlet",
+        "author": "William Shakespeare"
+      },
+      {
+        "id": 6,
+        "title": "Homer",
+        "author": "The Odyssey"
+      },
+      {
+        "id": 7,
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert"
+      },
+      {
+        "id": 8,
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri"
+      },
+      {
+        "id": 9,
+        "title": "Lolita",
+        "author": "Vladimir Nabokov"
+      },
+      {
+        "id": 10,
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoyevsky"
+      }
+  ]
